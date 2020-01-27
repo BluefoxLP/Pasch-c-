@@ -1,0 +1,11 @@
+C:\Users\lojo\source\repos\AS\AS\bin\Debug\netcoreapp3.0\AS.exe
+C:\Users\lojo\source\repos\AS\AS\bin\Debug\netcoreapp3.0\AS.deps.json
+C:\Users\lojo\source\repos\AS\AS\bin\Debug\netcoreapp3.0\AS.runtimeconfig.json
+C:\Users\lojo\source\repos\AS\AS\bin\Debug\netcoreapp3.0\AS.runtimeconfig.dev.json
+C:\Users\lojo\source\repos\AS\AS\bin\Debug\netcoreapp3.0\AS.dll
+C:\Users\lojo\source\repos\AS\AS\bin\Debug\netcoreapp3.0\AS.pdb
+C:\Users\lojo\source\repos\AS\AS\obj\Debug\netcoreapp3.0\AS.csprojAssemblyReference.cache
+C:\Users\lojo\source\repos\AS\AS\obj\Debug\netcoreapp3.0\AS.AssemblyInfoInputs.cache
+C:\Users\lojo\source\repos\AS\AS\obj\Debug\netcoreapp3.0\AS.AssemblyInfo.cs
+C:\Users\lojo\source\repos\AS\AS\obj\Debug\netcoreapp3.0\AS.dll
+C:\Users\lojo\source\repos\AS\AS\obj\Debug\netcoreapp3.0\AS.pdb
